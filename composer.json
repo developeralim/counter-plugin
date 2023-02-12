@@ -1,0 +1,11 @@
+{
+    "require": {
+        "phpoffice/phpspreadsheet": "^1.27",
+        "guzzlehttp/guzzle": "^7.5"
+    },
+    "autoload" : {
+        "psr-4" : {
+            "Counter\\" : "includes/"
+        }
+    }
+}
